@@ -14,3 +14,32 @@ Association Rules: Generate rules that highlight relationships between itemsets,
 Metrics: Evaluate rules based on support, confidence, and lift.
 
 Visualization: Present findings through graphs and visual tools for better interpretation.
+Methodology
+
+Data Preprocessing: Load and preprocess the dataset to transform transactional data into the required format.
+
+Frequent Itemset Generation: Use algorithms like Apriori or FP-Growth to identify frequently purchased itemsets.
+
+Association Rule Mining: Derive association rules from the frequent itemsets.
+
+Evaluation: Analyze the rules based on metrics such as support, confidence, and lift.
+
+Visualization: Plot graphs to represent the itemsets and relationships visually.
+
+Use Cases
+
+Retail Analytics: Optimize store layout and product placement.
+
+E-commerce: Recommend related products to customers.
+
+Marketing Strategies: Create bundled offers and discounts.
+
+Results
+
+The analysis highlights:
+
+Frequently purchased items together.
+
+Insights into customer purchase behavior.
+
+Potential opportunities for cross-selling and upselling.
